@@ -1,17 +1,11 @@
 # Heriberto Noguera García
 
-**Automatización de procesos e IA aplicada a negocio**
-Transformación digital y diseño de servicios
+**Procesos, automatización e IA aplicadas a negocio**
+Diseño gráfico, web y editorial · Transformación digital y diseño de servicios
 
 Madrid, híbrido o remoto · contacto@lagalga.es · +34 624 40 10 84 · [LinkedIn](https://linkedin.com/in/heribertonoguera) · [lagalga.es](https://lagalga.es)
 
 [Descargar el CV en PDF](cv-heriberto-noguera.pdf)
-
-## Diseño gráfico, web y editorial
-
-- **Web:** diseño y desarrollo en WordPress con Divi, maquetación en HTML, CSS y JavaScript y prototipos en Figma. Mantenimiento de webs con copias de seguridad, seguridad y actualizaciones para más de 20 clientes.
-- **Diseño gráfico y editorial:** identidad de marca y piezas gráficas, y maquetación de publicaciones y entregables con Photoshop, Illustrator e InDesign, desde mi formación en Diseño y Producción Editorial.
-- **Clientes:** sobre todo micropymes y autónomos, a quienes acompaño desde el encargo hasta la publicación y el mantenimiento posterior.
 
 ## Perfil
 
