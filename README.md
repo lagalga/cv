@@ -7,6 +7,12 @@ Madrid, híbrido o remoto · contacto@lagalga.es · +34 624 40 10 84 · [LinkedI
 
 [Descargar el CV en PDF](cv-heriberto-noguera.pdf)
 
+## Diseño gráfico, web y editorial
+
+- **Web:** diseño y desarrollo en WordPress con Divi, maquetación en HTML, CSS y JavaScript y prototipos en Figma. Mantenimiento de webs con copias de seguridad, seguridad y actualizaciones para más de 20 clientes.
+- **Diseño gráfico y editorial:** identidad de marca y piezas gráficas, y maquetación de publicaciones y entregables con Photoshop, Illustrator e InDesign, desde mi formación en Diseño y Producción Editorial.
+- **Clientes:** sobre todo micropymes y autónomos, a quienes acompaño desde el encargo hasta la publicación y el mantenimiento posterior.
+
 ## Perfil
 
 Llevo 25 años uniendo diseño, procesos y tecnología. En Soulsight, durante 20, fui la persona que sostenía todo lo técnico y de sistemas: monté desde cero el CRM-ERP en Notion que usaba el 80% de la plantilla, con unas 70 automatizaciones en Make, Notion y Brevo, y participé en proyectos de diseño y estrategia para BBVA, ING, Mapfre y Siemens Gamesa.
