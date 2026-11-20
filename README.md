@@ -1,6 +1,7 @@
 # Heriberto Noguera García
 
 **Procesos, automatización e IA aplicadas a negocio**
+
 Diseño gráfico, web y editorial · Transformación digital y diseño de servicios
 
 Madrid, híbrido o remoto · contacto@lagalga.es · +34 624 40 10 84 · [LinkedIn](https://linkedin.com/in/heribertonoguera) · [lagalga.es](https://lagalga.es)
